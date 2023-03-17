@@ -1,0 +1,88 @@
+Interviewer:What is the purpose of the app?
+Interviewee:Our app provides a safe, free, global solution to reunite people with lost or found items. We aim to make the process of reporting and finding lost items as efficient and stress-free as possible.
+Interviewer:How does the app work?
+Interviewee:ur platform offers users the ability to create a listing if they have lost or found an item. Our sophisticated algorithm efficiently matches and connects users with the appropriate listings. Once the potential match is identified, users can promptly and thoroughly verify whether the item in question is indeed theirs. After confirmation, users are free to collaborate and coordinate the details of item retrieval. Furthermore, we have implemented an innovative rewarding system to incentivize the return of lost items.
+Interviewer:Is the app free?
+Interviewee:Yes, the app is free to download and use. However, if you've lost an item and want to increase the chances of its return, you have the option to offer a reward through the app. This reward acts as an incentive for finders to return the lost item and can increase the chances of its safe return.
+Interviewer:How can I download the app?
+Interviewee:You can download our app from the App Store or Google Play Store (coming soon).
+Interviewer:Is my personal information secure?
+Interviewee:Yes, we take the privacy and security of our users seriously. All personal information is kept secure and confidential.
+Interviewer:How can I contact customer support?
+Interviewee:You can contact our customer support team through the app or by emailing us at support@loofie.co. Our team is always happy to assist you.
+
+
+Interviewer:What should I do if I lose something?
+Interviewee:If you lose something, the first step is to create a listing on our app. Provide as much detail as possible, including a description of the item, where and when you lost it, and your contact information.
+Interviewer:How do I create a lost item listing?
+Interviewee:To create a lost item listing, simply open the app and select I lost something in Loser mode. Then, fill out the required information and submit the listing.
+Interviewer:What information should I include in the listing?
+Interviewee:Be as descriptive as possible in your listing. Include a detailed description of the item, where and when you lost it, and your contact information.
+Interviewer:How do I know if someone has found my lost item?
+Interviewee:Once someone has found your lost item, they can connect with you through the app. You will receive a notification and can verify if it is the proper item.
+Interviewer:What happens after someone claims to have found my item?
+Interviewee:After someone claims to have found your item, you have to accept it. Later you will be able to communicate with them through the app to discuss the best way to return your item.
+Interviewer:Can I offer a reward for my lost item?
+Interviewee:Yes, you can offer a reward for your lost item. Listings with rewards have significantly higher chance of being found and returned.
+Interviewer:What if someone claims to have found my lost item but it's not actually mine?
+Interviewee:You can verify the item's details with the finder before agreeing to any return arrangements.
+Interviewer:How long will my listing stay active?
+Interviewee:Your listing will stay active until you remove it or mark it as resolved. (2w??)
+Interviewer:What happens if I don't receive my lost item?
+Interviewee:While we do our best to facilitate connections between users and ensure that items are returned, we cannot guarantee that every item will be found or returned. However, our rewarding system incentivizes finders to return lost items, increasing the chances of successful reunions.
+
+
+Interviewer:What should I do if I find something?
+Interviewee:If you find something, the first step is to create a listing on our app. Provide as much detail as possible, including a description of the item, where and when you found it, add a photo and your contact information 
+Interviewer:How do I create a found item listing?
+Interviewee:To create a found item listing, simply open the app and select Report a found item. Then, fill out the required information and submit the listing.
+Interviewer:What information should I include in the listing?
+Interviewee:Be as descriptive as possible in your listing. Include a detailed description of the item, where and when you found it, and your contact information.
+Interviewer:How do I know if I've found the right item?
+Interviewee:Let us do the difficult part! But once you connect with the owner through the app, they will be able to verify if it is the proper item.
+Interviewer:What happens after I claim to have found someone's item?
+Interviewee:After you claim to have found someone's item, you will be able to communicate with them through the app to discuss the best way to return the item.
+Interviewer:Can I receive a reward for returning a found item?
+Interviewee:Yes, you can receive a reward for returning a found item. The amount of reward is always offered by the Loser and must be accepted by Finder. By starting the return process Finder accepts it. For further details please see our Terms and Conditions.
+Interviewer:What happens if I can't return the item to the loser?
+Interviewee:If you cannot return the item to the loser, please contact our support team. We will work with you to find a solution.
+
+
+Interviewer:How does the reward system work?
+Interviewee:Our reward system encourages finders to return lost items by offering a reward to them. You can set the reward amount when creating a listing for a lost item. The reward is only charged to you if the finder returns the item and you confirm it.
+Interviewer:How do I pay the reward to the finder?
+Interviewee:If you want to increase the chances of finding your lost item, you have the option to offer a reward. Once your lost item is returned by the finder, you can pay the reward through the app. To initiate the payment, you will need to provide your credit card details and personal information, and the transaction will be securely processed by Stripe.
+Interviewer:How does the payment system work?
+Interviewee:Our payment system uses Stripe to process all transactions, ensuring that your payment information is secure and your payments are processed quickly and reliably.
+Interviewer:How do I get paid for returning a lost item?
+Interviewee:If you have found a lost item and the owner has offered a reward for its return, you can receive the reward through the app. To initiate the payment process, you will be asked to provide your personal details and IBAN number through the app. The payment transaction will be securely processed by Stripe.
+Interviewer:What happens if the finder doesn't return my lost item?
+Interviewee:If the finder doesn't return your lost item, you won't be charged. However, we encourage all users to make an effort to communicate with each other and try to resolve any issues related to lost items. We are always here to help you if any assistance is requested.
+
+
+Interviewer:What is the automated post solution?
+Interviewee:It allows users in certain regions to easily and securely return lost items through the Foxpost network of automated post machines. This service is available in select regions and is subject to availability.
+Interviewer:How do I use the automated post solution?
+Interviewee:If you're eligible to use our automated post solution, you'll be prompted to choose this option when communicating with the finder. The app will guide you through the process of generating a shipping label and dropping off the item at a designated Foxpost machine.
+Interviewer:Where is the automated post solution available?
+Interviewee:Our automated post solution is currently available in select regions. Please check the app or contact our customer support for more information.
+Interviewer:What if I don't feel comfortable providing my credit card details for the reward payment?
+Interviewee:We understand your concern, but providing your credit card details is necessary to ensure the security of the transaction. If you have any further questions or concerns, please contact our support team for assistance.
+
+
+Interviewer:What happens if I accidentally delete my listing?
+Interviewee:If you accidentally delete your listing, you'll need to create a new one. We recommend double-checking the details before submitting your listing to avoid any accidental deletions.
+Interviewer:What happens if I can't contact the other party?
+Interviewee:f you're having trouble contacting the other party, we recommend using the messaging feature in the app to send a message and attempt to resolve the issue. If you're still unable to reach the other party, please contact our customer support for assistance.
+Interviewer:What happens if the item is not in the same condition as described in the listing?
+Interviewee:We encourage all users to be honest and accurate when creating listings for lost or found items. If you receive an item that is not in the same condition as described in the listing, please contact our customer support to report the issue and receive assistance.
+
+
+Interviewer:I have a technical issue. What sould I do?
+Interviewee:If you're experiencing a technical issue, please check that you have the latest version of the app installed and that your device is up to date. If the issue persists, please contact our customer support for assistance.
+
+
+Interviewer:How can I reach you?
+Interviewee:You can contact our customer support by email at support@loofie.co or through the messaging feature in the app. Our support team is available to assist you with any questions or issues you may have.
+Interviewer:Does Loofie welcome feedback and ideas? 
+Interviewee:Yes, we always appreciate user feedback and ideas. Please contact our support team with any suggestions or ideas you have for the app.
