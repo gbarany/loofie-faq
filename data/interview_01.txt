@@ -1,11 +1,11 @@
 User:What is the purpose of the Loofie app?
-Loofie Assistant:Our app provides a safe, free, global solution to reunite people with lost or found items. We aim to make the process of reporting and finding lost items as efficient and stress-free as possible.
+Loofie Assistant:Our Loofie app provides a safe, free, global solution to reunite people with lost or found items. We aim to make the process of reporting and finding lost items as efficient and stress-free as possible.
 User:How does the Loofie app work?
-Loofie Assistant:ur platform offers users the ability to create a listing if they have lost or found an item. Our sophisticated algorithm efficiently matches and connects users with the Loofie appropriate listings. Once the potential match is identified, users can promptly and thoroughly verify whether the item in question is indeed theirs. After confirmation, users are free to collaborate and coordinate the details of item retrieval. Furthermore, we have implemented an innovative rewarding system to incentivize the return of lost items.
+Loofie Assistant:Our platform offers users the ability to create a listing if they have lost or found an item. Our sophisticated algorithm efficiently matches and connects users with the Loofie appropriate listings. Once the potential match is identified, users can promptly and thoroughly verify whether the item in question is indeed theirs. After confirmation, users are free to collaborate and coordinate the details of item retrieval. Furthermore, we have implemented an innovative rewarding system to incentivize the return of lost items.
 User:Is the Loofie app free?
 Loofie Assistant:Yes, the Loofie app is free to download and use. However, if you've lost an item and want to increase the chances of its return, you have the option to offer a reward through the Loofie app. This reward acts as an incentive for finders to return the lost item and can increase the chances of its safe return.
 User:How can I download the Loofie app?
-Loofie Assistant:You can download our app from the Loofie app Store or Google Play Store (coming soon).
+Loofie Assistant:You can download our Loofie app from the Loofie app Store or Google Play Store (coming soon).
 User:Is my personal information secure?
 Loofie Assistant:Yes, we take the privacy and security of our users seriously. All personal information is kept secure and confidential.
 User:How can I contact customer support?
@@ -13,7 +13,7 @@ Loofie Assistant:You can contact our customer support team through the Loofie ap
 
 
 User:What should I do if I lose something?
-Loofie Assistant:If you lose something, the first step is to create a listing on our app. Provide as much detail as possible, including a description of the item, where and when you lost it, and your contact information.
+Loofie Assistant:If you lose something, the first step is to create a listing on our Loofie app. Provide as much detail as possible, including a description of the item, where and when you lost it, and your contact information.
 User:How do I create a lost item listing?
 Loofie Assistant:To create a lost item listing, simply open the Loofie app and select I lost something in Loser mode. Then, fill out the required information and submit the listing.
 User:What information should I include in the listing?
@@ -33,7 +33,7 @@ Loofie Assistant:While we do our best to facilitate connections between users an
 
 
 User:What should I do if I find something?
-Loofie Assistant:If you find something, the first step is to create a listing on our app. Provide as much detail as possible, including a description of the item, where and when you found it, add a photo and your contact information 
+Loofie Assistant:If you find something, the first step is to create a listing on our Loofie app. Provide as much detail as possible, including a description of the item, where and when you found it, add a photo and your contact information 
 User:How do I create a found item listing?
 Loofie Assistant:To create a found item listing, simply open the Loofie app and select Report a found item. Then, fill out the required information and submit the listing.
 User:What information should I include in the listing?
@@ -63,7 +63,7 @@ Loofie Assistant:If the finder doesn't return your lost item, you won't be charg
 User:What is the automated post solution?
 Loofie Assistant:It allows users in certain regions to easily and securely return lost items through the Foxpost network of automated post machines. This service is available in select regions and is subject to availability.
 User:How do I use the automated post solution?
-Loofie Assistant:If you're eligible to use our automated post solution, you'll be prompted to choose this option when communicating with the finder. the Loofie app will guide you through the process of generating a shipping label and dropping off the item at a designated Foxpost machine.
+Loofie Assistant:If you're eligible to use our automated post solution, you'll be prompted to choose this option when communicating with the finder. The Loofie app will guide you through the process of generating a shipping label and dropping off the item at a designated Foxpost machine.
 User:Where is the automated post solution available?
 Loofie Assistant:Our automated post solution is currently available in select regions. Please check the Loofie app or contact our customer support for more information.
 User:What if I don't feel comfortable providing my credit card details for the reward payment?
@@ -85,4 +85,41 @@ Loofie Assistant:If you're experiencing a technical issue, please check that you
 User:How can I reach you?
 Loofie Assistant:You can contact our customer support by email at support@loofie.co or through the messaging feature in the Loofie app. Our support team is available to assist you with any questions or issues you may have.
 User:Does Loofie welcome feedback and ideas? 
-Loofie Assistant:Yes, we always appreciate user feedback and ideas. Please contact our support team with any suggestions or ideas you have for the Loofie app.
+Loofie Assistant:Yes, we always Loofie appreciate user feedback and ideas. Please contact our support team with any suggestions or ideas you have for the Loofie app.
+
+
+User:How can I delete my account?
+Loofie Assistant:To delete your account on Loofie, go to your profile, select Account, and then choose Delete Account.
+User:How long does it typically take to receive a reward for returning a lost item?
+Loofie Assistant:The time it takes to receive a reward for returning a lost item depends on the owner of the item. Once the item is returned and confirmed by the owner, the reward is typically transferred to the finder's account within 12-48 hours. Please note that this process is fully automated.
+User:Can I change the reward amount after I've posted a listing for a lost item?
+Loofie Assistant:It's not currently possible to change the reward amount for a listing once it's been posted. However, if you need any assistance, please don't hesitate to reach out to us and we'll be more than happy to help!
+User:What happens if someone claims to have found my lost item but it turns out to be a scam?
+Loofie Assistant:If someone claims to have found your lost item but it turns out to be a scam, report it to Loofie immediately. We take fraud and scams seriously and will investigate any reports.
+User:How does the Loofie app ensure the safety and privacy of its users' personal information?
+Loofie Assistant:We take the safety and privacy of our users' personal information seriously and use industry-standard security measures to protect it.
+User:What happens if I find a lost item but the owner hasn't offered a reward?
+Loofie Assistant:If you find a lost item but the owner hasn't offered a reward, you can still post a listing on Loofie to try and reunite the item with its owner
+User:
+How can I contact the person who posted a listing for a lost item I found?
+Loofie Assistant:Once our matchmaking algorithm has connected you with the person who posted a listing for the lost item you found, you'll be able to communicate with them using the messaging feature within the Loofie app. 
+User:Are there any fees or charges for using Loofie?
+Loofie Assistant:Loofie is a free Loofie app to download and use, and creating a listing for a lost item is also free. Offering a reward significantly increases the chances of finding a lost item. Loofie charges 20% of the reward fee only if the transaction is successful. This helps cover operational costs and ensures a successful outcome for both parties.
+User:Is there a minimum reward fee?
+Loofie Assistant:Yes, while it is possible to create a free listing, we highly encourage offering a reward fee to increase the chances of finding a lost item. The minimum reward fee on Loofie is ≈ €12. Please keep in mind that you the Loser only be charged the 20% fee if the transaction is successful.
+User:Why I can't offer a smaller reward fee?
+Loofie Assistant:Offering a reward fee increases the likelihood of someone finding and returning the lost item: it incentivizes people to go out of their way to help and make an effort to reunite the item with its owner. A smaller reward fee may not be as attractive to potential finders and may result in a lower chance of the item being returned. 
+User:There was a problem with my return.
+Loofie Assistant:If you're experiencing an issue with your return, please reach out to our customer support team as soon as possible. We're here to help resolve any issues that may arise during the return process. 
+User:Am I charged if the returning transaction was not successful?
+Loofie Assistant:If for any reason the transaction was not successful, any pre-authorized amount will be automatically refunded within 72 hours.
+User:How do I know if someone has found my lost item?
+Loofie Assistant:Once someone finds your lost item and posts a listing on Loofie, our algorithm will match it with your lost item report. We will then guide you through the process with step-by-step instructions on how to confirm that the item belongs to you and initiate the return process. Our goal is to make the process as smooth as possible for you.
+User:What types of items can I post on Loofie?
+Loofie Assistant:You can post any type of lost item on Loofie, as long as it is legal and Loofie appropriate for all ages. This includes but is not limited to wallets, phones, keys, jewelry, bags, and clothing. If you're unsure about whether an item can be posted, please contact us and we'll be happy to assist you.
+User:Can I create a listing for a lost item on behalf of someone else?
+Loofie Assistant:Yes, you can create a listing for a lost item on behalf of someone else. Simply provide the necessary details and contact information of the person who lost the item when creating the listing. If someone finds the item and wants to return it, they will contact the person whose information is provided in the listing. However, please ensure that you have the owner's permission to create the listing and provide accurate information to avoid any confusion.
+User:How long will my listing for a lost item remain active on the Loofie app?
+Loofie Assistant:Listings for lost items will remain active on the Loofie app for 14 days or until the owner of the listing deletes the listing. However, to ensure that the listings on Loofie are accurate and up-to-date, we encourage users to delete their listings as soon as they are no longer needed.
+User:Does Loofie have a desktop version, or is it only available as a mobile Loofie app?
+Loofie Assistant:We apologize, but at the moment we do not have a desktop version of Loofie. However, our team is working hard to develop one in the near future. In the meantime, please continue to use our mobile Loofie app for all your lost and found needs.
